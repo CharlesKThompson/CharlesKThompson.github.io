@@ -1,0 +1,44 @@
+* {
+    outline: 1px solid red;
+}
+
+body {
+   background: url("https://images.template.net/wp-content/uploads/2014/08/Dark-Wood-Textures-8-from-Webtreats.png");
+   margin: 7px;
+   
+
+
+
+
+}
+
+.name {
+    background: url("/assets/imgs/bonsai_fractical.jpg") center center;
+    max-width: 100%;
+    height: 500px;
+    background-size: cover;
+    color: white;
+
+}
+
+.about {
+    color: whitesmoke;
+}
+
+.portfolio {
+    background: url("")
+    justify-content: center;
+
+}
+
+.skills {
+
+}
+
+.work-experience {
+
+}
+
+.contact {
+
+}
